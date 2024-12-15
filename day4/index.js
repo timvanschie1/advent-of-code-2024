@@ -4,5 +4,5 @@ const puzzleInput = fs.readFileSync('input.txt').toString();
 const part1 = require('./part1');
 const part2 = require('./part2');
 
-console.log('day 3, part 1 answer:', part1(puzzleInput));
-console.log('day 3, part 2 answer:', part2(puzzleInput));
+console.log('day 4, part 1 answer:', part1(puzzleInput));
+console.log('day 4, part 2 answer:', part2(puzzleInput));
